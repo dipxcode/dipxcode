@@ -4,14 +4,15 @@ I'm a **Full-Stack Python & Django Developer** passionate about building **moder
 
 ## 🛠️ Tech Stack & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=plastic&logo=python&logoColor=FFD43B)
+![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=44B78B)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1B2E3B?style=plastic&logo=postgresql&logoColor=336791)
+![AngularJS](https://img.shields.io/badge/AngularJS-8C1C1C?style=plastic&logo=angularjs&logoColor=E23237)
+![TypeScript](https://img.shields.io/badge/TypeScript-1E1E1E?style=plastic&logo=typescript&logoColor=3178C6)
+![VS Code](https://img.shields.io/badge/VS%20Code-1E1E1E?style=plastic&logo=visual-studio-code&logoColor=0078D7)
+![Git](https://img.shields.io/badge/Git-1E1E1E?style=plastic&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-1E1E1E?style=plastic&logo=github&logoColor=white)
+
 
 ## 🌱 Currently Learning
 
