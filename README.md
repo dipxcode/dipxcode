@@ -31,7 +31,7 @@ I'm a **Full-Stack Python & Django Developer** passionate about building **moder
 ## 📫 Connect with Me
 
 * 📧 Email: [dipakoza022@gmail.com](mailto:dipakoza022@gmail.com)
-* 🌐 GitHub: [github.com/dpxcode](https://github.com/dpxcode)
+* 🌐 GitHub: [github.com/dpxcode](https://github.com/dipxcode)
 * 💬 LinkedIn: [linkedin.com/in/dipak-prajapati](https://www.linkedin.com/)
 
 ## ⚡ Fun Facts
