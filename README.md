@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dipak Prajapati (dpxcode)
+# 👋 Hi, I'm Dipak Prajapati (dipxcode)
 
 I'm a **Full-Stack Python & Django Developer** passionate about building **modern web applications** and integrating **AI/ML solutions** to solve real-world problems. I love contributing to **open-source projects** and creating **scalable, user-friendly software**.
 
